@@ -1,0 +1,39 @@
+.home-abdulkalam-image {
+    height: 200px;
+    width: 200px;
+}
+
+.home-bg-container {
+    background-color: #e6f6ff;
+}
+
+.home-small-image {
+    height: 150px;
+    width: 100px;
+}
+
+.books-header {
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.books-description {
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.abdul-container {
+    padding: 15px;
+}
+
+.abdulkalam-image {
+    height: 300px;
+    width: 300px;
+}
+
+.recommended-book-short-details-container {
+    margin-left: 10px;
+}
+.popular-book-short-details-container{
+    padding: 16px;
+}
